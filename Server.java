@@ -1,3 +1,15 @@
+////////////////////////////////////////////////////////////////////////////////////////////////
+//                                                                                            //
+//  Program Name :clinet-server communication                                                 //
+//                                                                                            //
+//  Description :  This application performs communicaiton between client and server it just  //
+//                 over view of it.                                                           //
+//  Author :     Aniket Dattatray Jadhav.                                                     //
+//  Date :         22-04-2023                                                                 //
+//                                                                                            //
+//////////////////////////////////////////////////////////////////////////////////////////////// 
+
+// It is server side java code
 import java.net.*;
 import java.io.*;
 
